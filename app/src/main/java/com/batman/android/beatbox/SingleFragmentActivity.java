@@ -1,4 +1,4 @@
-package com.batman.android.criminalintent;
+package com.batman.android.beatbox;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
